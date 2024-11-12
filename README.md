@@ -58,5 +58,10 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM-TheLegend&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
 </div>
 
+![Commits Stat of Shariar Hasan](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIAM-TheLegend&theme=transparent)
+![Commit Bar](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIAM-TheLegend&theme=transparent&utcOffset=8)
+
+[![Shariar's GitHub Streak](https://streak-stats.demolab.com?user=SIAM-TheLegend&theme=dark&hide_border=true&border_radius=1&mode=weekly&card_width=1200)](https://git.io/streak-stats)
+
 <br/>
 <hr/>
