@@ -3,8 +3,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahriar+Hasan+Siam!;A+Full-Stack+Web+Developer;From+Bangladesh;" />
 </h1>
+<hr/>
 
-<h2 align="center">A passionate software developer from Bangladesh</h2>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 <br/>
 
 <div align="center">
@@ -42,7 +43,7 @@
 <hr/>
 
 <div align="center">
-  <h1>---------- My Contributions Got Eaten By Snake ----------</h1>
+  <h1>--------------------- Contributions ---------------------</h1>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SIAM-TheLegend/SIAM-TheLegend/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +63,7 @@
 
 ![Siam's GitHub Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIAM-TheLegend&theme=transparent)
 
-<div> <!-- .element: style="display: flex; flex-direction: row;" -->
+<div align="center">
 
 ![Commits Stat of SIAM-The-Legend](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIAM-TheLegend&theme=transparent)
 ![Commit Bar](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIAM-TheLegend&theme=transparent&utcOffset=8)
