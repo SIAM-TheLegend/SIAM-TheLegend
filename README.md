@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Siam-555.Siam-555" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SIAM-TheLegend.SIAM-TheLegend" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahriar+Hasan+Siam!;A+Full-Stack+Web+Developer;From+Bangladesh;" />
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Node JS, Python, React Native**
 
-💬 Ask me about **HTML, CSS, Tailwind, ReactJS or anything [here](https://github.com/Siam-555/Siam-555/issues)**
+💬 Ask me about **HTML, CSS, Tailwind, ReactJS or anything [here](https://github.com/SIAM-TheLegend/SIAM-TheLegend/issues)**
 
 </div>
 <div align="center"> 
@@ -45,7 +45,7 @@
   <h2>🐍 My Contributions Got Eaten By Snake 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Siam-555/Siam-555/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SIAM-TheLegend/SIAM-TheLegend/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/>
 </div>
@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-555&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM-TheLegend&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
 </div>
 
 <br/>
