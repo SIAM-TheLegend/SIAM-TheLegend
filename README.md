@@ -31,9 +31,9 @@
 
 <hr/>
  
-<h1 align="center">⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
-<br/>
 <div align="center">
+<h1 style="margin-top: -20px">⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
+<br/>
     <img src="https://skillicons.dev/icons?i=python,vscode,html,javascript,css,git,github,figma" />
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,firebase,mongodb,materialui,mysql" /><br>
 </div>
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h1 style="margin-bottom: 10px">--------------------- Contributions ---------------------</h1>
+  <h1 style="margin-top: -20px">--------------------- Contributions ---------------------</h1>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SIAM-TheLegend/SIAM-TheLegend/output/github-contribution-grid-snake-dark.svg" />
@@ -52,22 +52,15 @@
 
 <hr/>
 
-<h1 align="center">--------------------- Stats ---------------------</h1>
+<div align="center">
+<h1 align="center" style="margin-top: -20px">--------------------- Stats ---------------------</h1>
 <br/>
-<div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM-TheLegend&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
-</div>
-
-<div align="center">
 
 ![Siam's GitHub Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIAM-TheLegend&theme=transparent)
 
-<div align="center">
-
 ![Commits Stat of SIAM-The-Legend](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIAM-TheLegend&theme=transparent)
 ![Commit Bar](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIAM-TheLegend&theme=transparent&utcOffset=8)
-
-</div>
 
 [![Siam's GitHub Streak](https://streak-stats.demolab.com?user=SIAM-TheLegend&theme=dark&hide_border=true&border_radius=1&mode=weekly&card_width=1000)](https://git.io/streak-stats)
 
