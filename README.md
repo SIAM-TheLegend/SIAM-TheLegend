@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahriar+Hasan+Siam!;A+Full-Stack+Web+Developer;From+Bangladesh;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h2 align="center">A passionate software developer from Bangladesh</h2>
 <br/>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages, Frameworks,Tools I Use ⚒️</h2>
+<h1 align="center">⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,html,javascript,css,git,github,figma" />
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions Got Eaten By Snake 🐍</h2>
+  <h1>---------- My Contributions Got Eaten By Snake ----------</h1>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SIAM-TheLegend/SIAM-TheLegend/output/github-contribution-grid-snake-dark.svg" />
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">--------------------- Stats ---------------------</h1>
 <br/>
 <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM-TheLegend&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
