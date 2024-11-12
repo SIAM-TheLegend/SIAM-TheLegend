@@ -36,13 +36,19 @@
 <br/>
     <img src="https://skillicons.dev/icons?i=python,vscode,html,javascript,css,git,github,figma" />
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,firebase,mongodb,materialui,mysql" /><br>
-    <h3 align="left" border-bottom="1px">Languages :</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp" />
-    <h3 align="left" border-bottom="1px">Libraries and Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
 
-![](https://skillicons.dev/icons?i=tailwind "TailwindCSS")
+<h3 align="left" border-bottom="1px">Languages :</h3>
+
+![HTML](https://skillicons.dev/icons?i=html "HTML") &nbsp;
+![CSS](https://skillicons.dev/icons?i=css "CSS") &nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript "JavaScript") &nbsp;
+![Python](https://skillicons.dev/icons?i=python "Python") &nbsp;
+![C++](https://skillicons.dev/icons?i=cpp "C++") &nbsp;
+
+<h3 align="left" border-bottom="1px">Libraries and Frameworks</h3>
+
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")
+![BootStrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
 
 </div>
 
