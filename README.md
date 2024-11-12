@@ -32,17 +32,25 @@
 <hr/>
  
 <div align="center">
-<h1 style="margin-top: -20px">⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
+<h1>⚒️ Languages, Frameworks,Tools I Use ⚒️</h1>
 <br/>
     <img src="https://skillicons.dev/icons?i=python,vscode,html,javascript,css,git,github,figma" />
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,firebase,mongodb,materialui,mysql" /><br>
+    <h3 align="left" border-bottom="1px">Languages :</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp" />
+    <h3 align="left" border-bottom="1px">Libraries and Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+
+![](https://skillicons.dev/icons?i=tailwind "TailwindCSS")
+
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h1 style="margin-top: -20px">--------------------- Contributions ---------------------</h1>
+  <h1>---------------- Contributions ----------------</h1>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SIAM-TheLegend/SIAM-TheLegend/output/github-contribution-grid-snake-dark.svg" />
@@ -53,7 +61,7 @@
 <hr/>
 
 <div align="center">
-<h1 align="center" style="margin-top: -20px">--------------------- Stats ---------------------</h1>
+<h1>--------------------- Stats ---------------------</h1>
 <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM-TheLegend&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
 
